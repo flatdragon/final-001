@@ -6,7 +6,7 @@
   },
   "main": "index.js",
   "repository": "https://github.com/flatdragon/final-001.git",
-  "author": "flatdragon",
+  "author": "AndrewKochetygov",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
